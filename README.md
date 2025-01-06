@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kelebekkadircan&label=Profile%20views&color=0e75b6&style=flat" alt="kelebekkadircan" /> </p>
 
-- 🌱 I’m currently learning **ReactJs** and **NestJs**
+- 🌱 I’m currently learning **ReactJs** and **.NetCore**
 
 - 📫 How to reach me **kelebekkadircan@gmail.com**
 
